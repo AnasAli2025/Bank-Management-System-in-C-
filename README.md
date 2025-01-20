@@ -1,5 +1,5 @@
 # Bank-Management-System-in-C++
-                      This C++ program simulates a simple bank system to manage customer accounts. The Bank class includes functions for creating, updating, viewing, deleting accounts, and handling transactions.
+This C++ program simulates a simple bank system to manage customer accounts. The Bank class includes functions for creating, updating, viewing, deleting accounts, and handling transactions.
 **Key Functions:**
 **choice():** 
           Displays the main menu and lets the user select an action (e.g., create an account, view customers, update account).
